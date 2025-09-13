@@ -1,0 +1,22 @@
+{
+  "Countries": [
+    {
+      "Country": "India",
+      "TotalConfirmed": 45000000,
+      "TotalDeaths": 530000,
+      "TotalRecovered": 44000000
+    },
+    {
+      "Country": "United States",
+      "TotalConfirmed": 105000000,
+      "TotalDeaths": 1150000,
+      "TotalRecovered": 103000000
+    },
+    {
+      "Country": "Brazil",
+      "TotalConfirmed": 35000000,
+      "TotalDeaths": 690000,
+      "TotalRecovered": 34000000
+    }
+  ]
+}
